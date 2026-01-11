@@ -1,7 +1,7 @@
 # .NET Conf Local - .NET 10 Breaking Changes  
 Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) '.NET Conf Local' event in January 2026. An overview of .NET 10 Breaking Changes.  
 
-[Event Meetup Listing](https://www.meetup.com/dotnetnorth/events/311234537/) • Presentation Link to follow  
+[Event Meetup Listing](https://www.meetup.com/dotnetnorth/events/311234537/) • [Presentation Link](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/dotnet-conf-local-jan-2026-net10-breaking-changes/2026-01-13-Mike-Irving-.NET-10-Breaking-Changes.pptx)  
 
 ![.NET 10 Breaking Chnages](dot-net-10-breaking-changes-banner.jpg)
 
