@@ -1,6 +1,14 @@
 # .NET Conf Local - .NET 10 Breaking Changes  
 Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) '.NET Conf Local' event in January 2026. An overview of .NET 10 Breaking Changes.  
 
+**Talk Description:**  
+
+A look through the different Technology Areas of .NET 10 Breaking changes, and the different types of change: Behavioural changes, source incompatibilities and Binary incompatibilities.  
+
+Covering a selection of changes in ASP.NET Core, Containers, Core .NET libraries, Cryptography, Extensions, Globalization, Networking, SDK and MSBuild, Serialization and WPF.  
+
+Includes a mention of upgrading to Visual Studio 2026.  
+
 [Event Meetup Listing](https://www.meetup.com/dotnetnorth/events/311234537/) • [Presentation Link](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/dotnet-conf-local-jan-2026-net10-breaking-changes/2026-01-13-Mike-Irving-.NET-10-Breaking-Changes.pptx)  
 
 ![.NET 10 Breaking Chnages](dot-net-10-breaking-changes-banner.jpg)
